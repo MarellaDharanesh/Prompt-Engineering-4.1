@@ -11,21 +11,33 @@
 
 With the growing demand for personalized healthcare among the elderly, smart digital assistants like MediGuide are becoming vital tools. MediGuide is specifically developed to aid seniors dealing with chronic illnesses such as diabetes, hypertension, and arthritis. Through natural language processing, it delivers tailored advice, medication reminders, and emotional support. By employing varied prompting strategies, MediGuide can offer more accurate, compassionate, and user-specific responses.
 
+![image](https://github.com/user-attachments/assets/eb385ea5-9c52-4dc2-ab46-170470c64a0a)
+
 ### 2. Background
 
 Managing chronic conditions is a constant challenge for older adults, who often struggle with medication schedules, lifestyle changes, and tracking health indicators. MediGuide addresses these concerns by providing:
 - Customized health suggestions  
 - Timely medication alerts  
 - Daily wellness tips  
-- Mental and emotional support  
+- Mental and emotional support
+
+- ![image](https://github.com/user-attachments/assets/88b421cb-d310-40f8-b77f-08c3b64b5e50)
+
+
 
 The integration of diverse prompting approaches ensures that responses are not only informative but also emotionally aware and contextually relevant.
+
+![image](https://github.com/user-attachments/assets/4ce922a7-c5d9-4a4a-bfc0-f0da75e2160b)
+
 
 ---
 
 ## Objective
 
 The aim of this experiment is to explore how various prompting methods—such as zero-shot, few-shot, chain-of-thought, role-based, and multi-modal—enhance MediGuide's response quality across real-world healthcare scenarios. Each technique is tested to assess its impact on clarity, personalization, and user engagement.
+
+![image](https://github.com/user-attachments/assets/04e46a75-f788-4da2-aeb6-da166b8d6336)
+
 
 ---
 
@@ -38,6 +50,9 @@ We employed the following strategies to fine-tune MediGuide's interaction capabi
 - Chain-of-Thought Prompting: Encouraging logical reasoning and step-by-step explanations.
 - Role-Based Prompting: Assigning MediGuide a specific persona, such as a caring assistant.
 - Multi-Modal Prompting: Combining visual data (e.g., images of pillboxes) with text input for enriched context.
+
+![image](https://github.com/user-attachments/assets/620a4626-7a31-44d4-a345-81df6b0de285)
+
 
 ---
 
@@ -140,6 +155,7 @@ Leverages visual input for more personalized, actionable guidance.
 
 6. Continuous Response Refinement
 
+![image](https://github.com/user-attachments/assets/56ab2eb1-32c9-42ad-92cb-ef70d80382ef)
 
 ---
 
